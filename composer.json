@@ -1,4 +1,5 @@
 {
+    "version": "3.0.0",
     "name": "tzkoshi/spot2",
     "type": "library",
     "description": "Simple DataMapper built on top of Doctrine DBAL",
