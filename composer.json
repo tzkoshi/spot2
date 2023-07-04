@@ -1,5 +1,5 @@
 {
-    "name": "vlucas/spot2",
+    "name": "tzkoshi/spot2",
     "type": "library",
     "description": "Simple DataMapper built on top of Doctrine DBAL",
     "keywords": ["orm", "datamapper", "dbal", "doctrine", "database", "model", "mapper", "entity"],
